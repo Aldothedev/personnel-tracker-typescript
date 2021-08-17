@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/personnel-tracker-typescript/static/css/main.161c3bd8.chunk.css",
+    "main.js": "/personnel-tracker-typescript/static/js/main.9efafa20.chunk.js",
+    "main.js.map": "/personnel-tracker-typescript/static/js/main.9efafa20.chunk.js.map",
+    "runtime-main.js": "/personnel-tracker-typescript/static/js/runtime-main.3970430e.js",
+    "runtime-main.js.map": "/personnel-tracker-typescript/static/js/runtime-main.3970430e.js.map",
+    "static/js/2.dbbccef5.chunk.js": "/personnel-tracker-typescript/static/js/2.dbbccef5.chunk.js",
+    "static/js/2.dbbccef5.chunk.js.map": "/personnel-tracker-typescript/static/js/2.dbbccef5.chunk.js.map",
+    "static/js/3.98cfe692.chunk.js": "/personnel-tracker-typescript/static/js/3.98cfe692.chunk.js",
+    "static/js/3.98cfe692.chunk.js.map": "/personnel-tracker-typescript/static/js/3.98cfe692.chunk.js.map",
+    "index.html": "/personnel-tracker-typescript/index.html",
+    "static/css/main.161c3bd8.chunk.css.map": "/personnel-tracker-typescript/static/css/main.161c3bd8.chunk.css.map",
+    "static/js/2.dbbccef5.chunk.js.LICENSE.txt": "/personnel-tracker-typescript/static/js/2.dbbccef5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3970430e.js",
+    "static/js/2.dbbccef5.chunk.js",
+    "static/css/main.161c3bd8.chunk.css",
+    "static/js/main.9efafa20.chunk.js"
+  ]
+}
